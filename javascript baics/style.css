@@ -1,0 +1,24 @@
+button{
+    border: solid black 2px;
+    
+}
+.container{
+    background-color: goldenrod;
+    max-width: 80%;
+    margin: auto;
+    border: solid black 5px;
+    height: auto;
+    
+}
+#inc-btn{
+    background-color: aqua;
+}
+#save-btn{
+    background-color: lightgreen;
+}
+#reset-btn{
+    background-color: yellow;
+}
+body{
+    background-color: aquamarine;
+}
